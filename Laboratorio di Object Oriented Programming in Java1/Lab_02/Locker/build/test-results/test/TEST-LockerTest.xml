@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LockerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-25T07:51:42" hostname="LAPTOP-VAO4T3PT" time="0.004">
+  <properties/>
+  <testcase name="openLock" classname="LockerTest" time="0.004"/>
+  <system-out><![CDATA[Closed Locker
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
